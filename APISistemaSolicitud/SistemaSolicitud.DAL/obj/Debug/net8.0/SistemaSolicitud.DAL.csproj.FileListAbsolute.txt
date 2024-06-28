@@ -1,0 +1,15 @@
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\bin\Debug\net8.0\SistemaSolicitud.DAL.deps.json
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\bin\Debug\net8.0\SistemaSolicitud.DAL.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\bin\Debug\net8.0\SistemaSolicitud.DAL.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\SistemaSolicitud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\SistemaSolicitud.DAL.AssemblyInfoInputs.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\SistemaSolicitud.DAL.AssemblyInfo.cs
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\SistemaSolicitud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\SistemaSolicitud.DAL.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\refint\SistemaSolicitud.DAL.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\SistemaSolicitud.DAL.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\ref\SistemaSolicitud.DAL.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\bin\Debug\net8.0\SistemaSolicitud.Model.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\bin\Debug\net8.0\SistemaSolicitud.Model.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\SistemaSolicitud.DAL.csproj.AssemblyReference.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DAL\obj\Debug\net8.0\SistemaSolicitud.DAL.csproj.CopyComplete

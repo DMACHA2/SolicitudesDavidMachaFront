@@ -1,0 +1,17 @@
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\bin\Debug\net8.0\SistemaSolicitud.Utility.deps.json
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\bin\Debug\net8.0\SistemaSolicitud.Utility.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\bin\Debug\net8.0\SistemaSolicitud.Utility.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\SistemaSolicitud.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\SistemaSolicitud.Utility.AssemblyInfoInputs.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\SistemaSolicitud.Utility.AssemblyInfo.cs
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\SistemaSolicitud.Utility.csproj.CoreCompileInputs.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\SistemaSolicitud.Utility.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\refint\SistemaSolicitud.Utility.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\SistemaSolicitud.Utility.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\ref\SistemaSolicitud.Utility.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\bin\Debug\net8.0\SistemaSolicitud.DTO.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\bin\Debug\net8.0\SistemaSolicitud.Model.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\bin\Debug\net8.0\SistemaSolicitud.DTO.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\bin\Debug\net8.0\SistemaSolicitud.Model.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\SistemaSolicitud.Utility.csproj.AssemblyReference.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Utility\obj\Debug\net8.0\SistemaSolicitud.Utility.csproj.CopyComplete

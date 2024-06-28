@@ -1,0 +1,14 @@
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\bin\Debug\net8.0\SistemaSolicitud.Model.deps.json
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\bin\Debug\net8.0\SistemaSolicitud.Model.runtimeconfig.json
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\bin\Debug\net8.0\SistemaSolicitud.Model.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\bin\Debug\net8.0\SistemaSolicitud.Model.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\SistemaSolicitud.Model.csproj.AssemblyReference.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\SistemaSolicitud.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\SistemaSolicitud.Model.AssemblyInfoInputs.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\SistemaSolicitud.Model.AssemblyInfo.cs
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\SistemaSolicitud.Model.csproj.CoreCompileInputs.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\SistemaSolicitud.Model.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\refint\SistemaSolicitud.Model.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\SistemaSolicitud.Model.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\SistemaSolicitud.Model.genruntimeconfig.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.Model\obj\Debug\net8.0\ref\SistemaSolicitud.Model.dll

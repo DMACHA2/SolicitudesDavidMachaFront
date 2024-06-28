@@ -1,0 +1,11 @@
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\bin\Debug\net8.0\SistemaSolicitud.DTO.deps.json
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\bin\Debug\net8.0\SistemaSolicitud.DTO.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\bin\Debug\net8.0\SistemaSolicitud.DTO.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\obj\Debug\net8.0\SistemaSolicitud.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\obj\Debug\net8.0\SistemaSolicitud.DTO.AssemblyInfoInputs.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\obj\Debug\net8.0\SistemaSolicitud.DTO.AssemblyInfo.cs
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\obj\Debug\net8.0\SistemaSolicitud.DTO.csproj.CoreCompileInputs.cache
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\obj\Debug\net8.0\SistemaSolicitud.DTO.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\obj\Debug\net8.0\refint\SistemaSolicitud.DTO.dll
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\obj\Debug\net8.0\SistemaSolicitud.DTO.pdb
+C:\Users\damac\OneDrive\Escritorio\SistemaSolicitud\APISistemaSolicitud\SistemaSolicitud.DTO\obj\Debug\net8.0\ref\SistemaSolicitud.DTO.dll
