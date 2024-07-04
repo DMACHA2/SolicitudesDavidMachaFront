@@ -1,0 +1,57 @@
+
+<div class="login-body min-h-screen">
+    <div class="login grid grid-nogutter surface-section text-800">
+        <div class="login-img col-12 md:col-7 text-center md:text-left flex align-items-center justify-content-center surface-300 min-h-screen">
+            <section>
+                <div class="flex flex-column">
+                    <div class="text-center mb-5">
+                        <img src="https://img.freepik.com/vector-gratis/cv-empleados-cv-candidatos-trabajadores-corporativos-id-estudiantes-aislar-elemento-diseno-plano-solicitudes-empleo-avatares-ilustracion-concepto-informacion-personal_335657-1661.jpg" alt="Image" height="S" width="500" radiusclass="mb-3">
+                    </div>
+                    
+                </div>
+            </section>
+        </div>
+        <div class="login-content col-12 md:col-5 p-6 md:text-left flex align-items-center justify-content-center">
+            <section>
+                <div class="border-1 p-6 border-bluegray-200 border-round-2xl shadow-5">
+                    <div class="text-center mb-5">
+                        
+                        <div class="flex align-items-center justify-content-center mb-6 mt-6">
+                            <label class="font-medium no-underline ml-2 text-center font-bold text-4xl text-0">BIENVENIDO A SISTEMA SOLICITUDES</label>
+                        </div>
+                    </div>
+                    <mat-card class="loginCard">
+                        <div class="header text-center mb-5">
+                            <h2>LOGIN</h2>
+                        </div>
+                        <mat-card-content style="padding-bottom:15px;">
+                            <form [formGroup]="formularioLogin" (ngSubmit)="iniciarSesion()">
+                                <mat-form-field class="full-width" appearance="outline">
+                                    <mat-label>Email</mat-label>
+                                    <input formControlName="email" matInput autocomplete="off">
+                                    <mat-icon matSuffix>mail</mat-icon>
+                                </mat-form-field>
+                                <mat-form-field class="full-width" appearance="outline">
+                                    <mat-label>Contraseña</mat-label>
+                                    <input [type]="ocultarPassword ? 'password' : 'text'" formControlName="password" matInput autocomplete="off">
+                                    <button mat-icon-button matSuffix (click)="ocultarPassword = !ocultarPassword" type="button">
+                                        <mat-icon matSuffix>{{ ocultarPassword ? 'visibility_off' : 'visibility' }}</mat-icon>
+                                    </button>
+                                </mat-form-field>
+                                <button class="full-width" mat-raised-button color="primary" type="submit" [disabled]="formularioLogin.invalid">
+                                    Ingresar
+                                    <mat-icon matSuffix>login</mat-icon>
+                                </button>
+                            </form>
+                        </mat-card-content>
+                        <mat-card-content>
+                            <mat-card-footer>
+                                <mat-progress-bar mode="indeterminate" *ngIf="mostrarLoading"></mat-progress-bar>
+                            </mat-card-footer>
+                        </mat-card-content>
+                    </mat-card>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>

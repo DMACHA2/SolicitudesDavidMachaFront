@@ -1,0 +1,42 @@
+<mat-toolbar color="primary">
+    <mat-toolbar-row>
+        <h1>Sistema Solicitudes</h1>
+        <button mat-icon-button (click)="sidenav.toggle();">
+            <mat-icon>menu</mat-icon>
+        </button>
+    </mat-toolbar-row>
+</mat-toolbar>
+
+<mat-sidenav-container>
+    <mat-sidenav #sidenav opened="true"mode="side"style="width: 300px;">
+        <mat-nav-list>
+            <mat-list-item routerLink="/pages/usuario"style="height: 10vh;">
+                <mat-icon mat-list-icon>account_circle</mat-icon>
+                <div mat-line >Usuarios</div>
+            </mat-list-item>
+
+            <mat-list-item routerLink="/pages/solicitudes"style="height: 10vh;">
+                <mat-icon mat-list-icon>collections_bookmark</mat-icon>
+                <div mat-line>Solicitudes</div>
+            </mat-list-item>
+
+            <mat-list-item routerLink="/pages/historial-solicitud-eliminada"style="height: 10vh;">
+                <mat-icon mat-list-icon>edit_note</mat-icon>
+                <div mat-line>Historial Solicitudes Eliminadas</div>
+            </mat-list-item>
+
+            
+        </mat-nav-list>
+
+
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+        <div style="height: 90vh;">
+            <router-outlet></router-outlet>
+        </div>
+    </mat-sidenav-content>
+
+
+
+</mat-sidenav-container>
